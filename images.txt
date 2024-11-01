@@ -1,3 +1,4 @@
 nginx
 centos
 python:alpine3.19
+kms-server
