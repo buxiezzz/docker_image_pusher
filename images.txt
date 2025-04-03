@@ -1,4 +1,4 @@
-langgenius/dify=plugin-daemon:0.0.6-local
+langgenius/dify-plugin-daemon:0.0.6-local
 ubuntu/squid:latest
 redis:6-alpine
 langgenius/dify-sandbox:0.2.11
