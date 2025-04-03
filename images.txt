@@ -5,4 +5,4 @@ ionelmc/webdav
 rustdesk/rustdesk-server
 nginx:latest
 langgenius/dify-api:1.1.3
-
+ubuntu
