@@ -1,7 +1,10 @@
-python:alpine3.19
-teddysun/kms
-ionelmc/webdav
-rustdesk/rustdesk-server
+langgenius/dify=plugin-daemon:0.0.6-local
+ubuntu/squid:latest
+redis:6-alpine
+langgenius/dify-sandbox:0.2.11
+postqres:15-alpine
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:1.1.3
 nginx:latest
-langgenius/dify-api:1.1.3
-ubuntu
+
+
