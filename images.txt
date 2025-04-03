@@ -1,8 +1,8 @@
-nginx
 centos
 python:alpine3.19
 teddysun/kms
 ionelmc/webdav
 rustdesk/rustdesk-server
-langgenius/dify-web:1.1.3
+nginx:latest
+langgenius/dify-api:1.1.3
 
