@@ -1,1 +1,2 @@
-ddsrem/cms2strm:latest
+ddsrem/cms2strm
+nginx
