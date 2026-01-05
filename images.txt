@@ -1,2 +1,1 @@
-ddsrem/cms2strm
-nginx
+zxilly/cms2strm
