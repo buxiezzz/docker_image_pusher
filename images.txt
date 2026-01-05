@@ -1,2 +1,1 @@
-jeffxinzhe/moontv
-fogforest/lunatv:latest
+ddsrem/cms2strm:latest
